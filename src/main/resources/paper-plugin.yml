@@ -1,0 +1,13 @@
+name: ${name}
+version: ${version}
+main: org.crashwho.sellHopper.SellHopper
+api-version: '1.21'
+authors: [ CrashWho ]
+dependencies:
+  server:
+    CrashShop:
+      load: BEFORE
+      required: true
+    Vault:
+      load: BEFORE
+      required: true

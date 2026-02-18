@@ -1,0 +1,5 @@
+messages:
+  prefix: "<gradient:#84fab0:#8fd3f4><b>ꜱᴇʟʟʜᴏᴘᴘᴇʀ</b></gradient> <dark_gray>»<reset> "
+  reload: "<white>Configuration reloaded!"
+  give: "<white>You gave <#84fab0>x<amount> <white>ꜱᴇʟʟʜᴏᴘᴘᴇʀ to <#84fab0><player><white>!"
+  deposit: "<white>You collected <#84fab0><money> <white>from the ꜱᴇʟʟʜᴏᴘᴘᴇʀ!"

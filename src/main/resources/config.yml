@@ -1,0 +1,7 @@
+items:
+  hopper:
+    displayname: "<gradient:#84fab0:#8fd3f4><b>ꜱᴇʟʟʜᴏᴘᴘᴇʀ</b></gradient>"
+  inventory:
+    material: PAPER
+    displayname: "<green><money>"
+    slot: 2
